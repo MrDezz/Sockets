@@ -1,4 +1,4 @@
-// Server part of Server-Client chat. DEveloped by Mr_DeZ
+// Server part of Server-Client chat. Developed by Mr_Dezz
 
 #include <iostream>
 #include <WinSock2.h>
